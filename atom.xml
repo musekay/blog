@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://musekay.github.io/blog</id>
+    <title>integrity</title>
+    <updated>2022-09-23T17:34:48.281Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://musekay.github.io/blog"/>
+    <link rel="self" href="https://musekay.github.io/blog/atom.xml"/>
+    <subtitle>©2022,by Kay.</subtitle>
+    <logo>https://musekay.github.io/blog/images/avatar.png</logo>
+    <icon>https://musekay.github.io/blog/favicon.ico</icon>
+    <rights>All rights reserved 2022, integrity</rights>
+</feed>
